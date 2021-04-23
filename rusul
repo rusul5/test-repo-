@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+}
+.cover{
+    background-image: url("images/image5.png");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size:unset ;
+} 
+header, .name{
+
+
+display: flex;
+
+}
+.logo{    
+    width: 50%;
+    margin-top: 15px;    
+}
+h1{
+    display: inline-block;
+    position: relative;
+    top: -20px;
+    font-family:cursive;
+    text-shadow: 5px 5px rgb(138, 109, 167);
+    
+    
+}
+.name{
+    height: 500px;
+}
+p{
+    text-align: center;
+    font-size: 80px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 100px;
+    margin-inline: 530px;
+    text-shadow: 5px 5px rgb(28, 8, 48);
+    color: rgb(107, 55, 158);
+    
+    
+}
+.wave{
+   
+    height: 300px;
+    
+    display: flex;
+    
+}
+.mid1{
+
+width: 50%; 
+}
+.mid2{
+    
+    width: 50%;      
+}
+h3{
+    text-align: center;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    font-size:x-large;  
+}
+h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size:medium;
+}
+.nav{
+    margin-top: 30px;
+    justify-content: space-between;
+    margin: 20px;
+}
+a{
+    text-decoration:none;
+    font-size: 30px;
+    margin: 30px;
+}
+.type{
+    
+    display: flexbox;
+    
+}
+
+video{
+    height: 400px;
+    width: 1340px;
+    display: flexbox;
+    
+}
